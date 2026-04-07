@@ -1,0 +1,41 @@
+================================================================================================
+                                        LOSS RUN REPORT
+================================================================================================
+Issuing Carrier:   Tokio Marine HCC
+Policy Number:     POL-TM-CPP-2025-40903
+Named Insured:     Atlantic Seafood Processing, Inc.
+Policy Period:     11/01/2025 to 11/01/2026
+Report Date:       03/22/2026
+Prepared For:      USI Insurance Services - Boston
+================================================================================================
+
+CLAIM DETAIL
+------------------------------------------------------------------------------------------------
+Claim #     | Date of Loss | Type               | Status  | Paid        | Reserved    | Total Incurred    | Description
+------------|--------------|---------------------|---------|-------------|-------------|-------------------|-------------------------
+CLM-TM-80210| 12/18/2023   | Equipment Breakdown | Closed  | $2,100,000  | $0          | $2,100,000        | Catastrophic ammonia refrigeration compressor failure; total loss of cold-storage inventory ($1.65M product spoilage + $450K equipment repair)
+CLM-TM-80745| 05/09/2024   | Water Damage        | Closed  | $65,000     | $0          | $65,000           | Pipe burst in processing facility washdown area; floor and wall damage
+CLM-TM-81102| 09/03/2025   | Fire                | Closed  | $28,000     | $0          | $28,000           | Minor grease fire in employee break room kitchen; suppression system activated
+------------------------------------------------------------------------------------------------
+
+================================================================================================
+FIVE-YEAR LOSS SUMMARY
+------------------------------------------------------------------------------------------------
+Policy Year      | # Claims | Total Paid    | Total Reserved   | Total Incurred   | Loss Ratio
+-----------------|----------|---------------|------------------|------------------|------------
+2021-2022        | 0        | $0            | $0               | $0               | 0.0%
+2022-2023        | 0        | $0            | $0               | $0               | 0.0%
+2023-2024        | 1        | $2,100,000    | $0               | $2,100,000       | 552.6%
+2024-2025        | 1        | $65,000       | $0               | $65,000          | 13.7%
+2025-2026        | 1        | $28,000       | $0               | $28,000          | 5.1%
+------------------------------------------------------------------------------------------------
+TOTAL            | 3        | $2,193,000    | $0               | $2,193,000       | 103.4%
+================================================================================================
+
+Prepared by: Paul Demetriou, CPCU, AIC, Claims Department
+Note: This is a renewal account. Large loss (CLM-TM-80210) triggered mandatory
+equipment breakdown re-inspection; insured has since installed redundant refrigeration.
+Premium increase in 2024-2025 and 2025-2026 reflects large-loss surcharge.
+This report is provided for informational purposes only and does not
+constitute a guarantee of coverage or waiver of any policy terms.
+================================================================================================

@@ -1,0 +1,110 @@
+================================================================================
+              COMMERCIAL PROPERTY INSURANCE APPLICATION
+================================================================================
+                    TOKIO MARINE HCC INTERNATIONAL
+                      Lloyd's Syndicate 4141
+================================================================================
+
+SECTION 1: APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+Named Insured:          Cascade Technology Campus Inc
+DBA (if any):           Cascade Data Centres
+Mailing Address:        2200 Westlake Ave N, Suite 800, Seattle, WA 98109
+Primary Contact:        Raj Patel, Director of Insurance & Risk
+Phone:                  (206) 555-4490
+Email:                  raj.patel@cascadetechcampus.com
+Website:                www.cascadetechcampus.com
+Federal Tax ID / EIN:   91-2087546
+SIC Code:               7374
+NAICS Code:             518210
+Year Established:       2012
+Annual Revenue:         $340,000,000
+# Full-Time Employees:  310
+
+SECTION 2: PROPERTY INFORMATION
+--------------------------------------------------------------------------------
+Total Number of Locations:   2
+Total Insured Value (TIV):   $180,000,000
+
+  Loc 1  - Cascade East Campus, 15200 SE 37th St, Bellevue WA    - $110,000,000
+           Building: $45,000,000   M&E/IT Infrastructure: $65,000,000
+  Loc 2  - Cascade West Campus, 4800 S 188th St, SeaTac WA       - $70,000,000
+           Building: $28,000,000   M&E/IT Infrastructure: $42,000,000
+
+SECTION 3: CONSTRUCTION & PROTECTION
+--------------------------------------------------------------------------------
+Location 1 - Cascade East (Primary):
+  Construction:     Reinforced concrete, raised-floor design
+  Year Built:       2016
+  Stories:          2 (plus basement mechanical level)
+  Square Footage:   180,000 sq ft (95,000 sq ft white space)
+  Sprinkler:        Pre-action dry-pipe (server halls), wet-pipe (offices)
+  Fire Suppression: FM-200 clean-agent in all server rooms
+  Fire Alarm:       VESDA very-early-smoke-detection, addressable panels
+  Security:         Biometric + key card access; mantrap entries; 24/7 NOC
+  Roof:             TPO membrane, installed 2016
+  Power:            2N redundant utility feeds; 3x 2MW diesel generators;
+                    48-hour on-site fuel; UPS with 15-minute battery bridge
+
+Location 2 - Cascade West:
+  Construction:     Steel frame with concrete tilt-up walls
+  Year Built:       2019
+  Stories:          1 (high-bay)
+  Square Footage:   120,000 sq ft (72,000 sq ft white space)
+  Sprinkler:        Pre-action dry-pipe throughout
+  Fire Suppression: Novec 1230 clean-agent in server rooms
+  Fire Alarm:       VESDA + addressable panels
+  Security:         Same standard as Loc 1
+  Roof:             TPO membrane, installed 2019
+  Power:            2N utility feeds; 2x 2.5MW diesel generators;
+                    48-hour fuel; UPS with 15-minute battery bridge
+
+SECTION 4: COVERAGE REQUESTED
+--------------------------------------------------------------------------------
+Property Damage Limit:          $180,000,000 (blanket)
+Business Interruption Limit:    $90,000,000 (18-month indemnity period)
+Deductible Preference:          $500,000 per occurrence
+Coverage Form:                  All Risk / Special Form
+Equipment Breakdown:            Included (critical for generator/UPS/HVAC)
+Contingent BI:                  $20,000,000 (utility service interruption)
+Flood Sublimit:                 $15,000,000
+Earthquake Sublimit:            $50,000,000 (5% of values at risk, Cascadia zone)
+Data Restoration Costs:         $5,000,000
+
+SECTION 5: LOSS HISTORY (PAST 5 YEARS)
+--------------------------------------------------------------------------------
+Year    Location       Cause of Loss               Gross Incurred   Status
+----    --------       -------------               --------------   ------
+2025    None reported  --                           --               --
+2024    Loc 1          UPS failure / brief outage    $620,000        Closed
+2023    None reported  --                           --               --
+2022    Loc 1          Cooling unit malfunction      $185,000        Closed
+2021    None reported  --                           --               --
+
+Total 5-year incurred losses: $805,000
+Note: No property damage claims; losses relate to equipment breakdown only.
+
+SECTION 6: PROTECTIVE SAFEGUARDS
+--------------------------------------------------------------------------------
+- Pre-action sprinklers and FM-200/Novec clean-agent suppression
+- VESDA laser-based smoke detection in all data halls
+- 2N redundant power with generator and UPS backup
+- 24/7 staffed Network Operations Centre (NOC) at each site
+- Biometric + multi-factor access control; CCTV with 90-day retention
+- N+1 redundant CRAC/CRAH cooling units
+- Quarterly fire drills and annual FM Global engineering visits
+
+SECTION 7: ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+Current Carrier:        FM Global (DIC/equipment breakdown), Zurich (property)
+Expiring Premium:       $1,420,000 (expiring 09/01/2026)
+Reason for Marketing:   Seeking broader earthquake capacity; current programme
+                        provides only $25M EQ sublimit.
+Prior Cancellations:    None
+Bankruptcy History:     None
+Tier III+ Certification: Uptime Institute certified at both facilities
+
+APPLICANT SIGNATURE
+Date:       March 18, 2026
+Name:       Raj Patel
+Title:      Director of Insurance & Risk, Cascade Technology Campus Inc

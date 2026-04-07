@@ -1,0 +1,199 @@
+================================================================================
+         TOKIO MARINE HCC INTERNATIONAL
+         CATASTROPHE (CAT) UNDERWRITING GUIDELINES
+         COMMERCIAL PROPERTY
+         Effective: 1 January 2025 | Version: 3.1
+         Classification: INTERNAL - UNDERWRITER USE ONLY
+================================================================================
+
+1. PURPOSE
+--------------------------------------------------------------------------------
+These guidelines govern the acceptance and management of natural catastrophe
+exposure within the TMHCCI Commercial Property portfolio. They supplement the
+main Underwriting Guidelines and take precedence where CAT-specific provisions
+apply.
+
+2. CAT PERILS COVERED
+--------------------------------------------------------------------------------
+   - Named Windstorm (Hurricane, Typhoon, Cyclone)
+   - Tornado and Severe Convective Storm
+   - Earthquake
+   - Flood (riverine and coastal)
+   - Wildfire
+   - Winter Storm (ice, snow load, freeze)
+
+3. WIND / NAMED STORM GUIDELINES
+--------------------------------------------------------------------------------
+
+3.1 WIND TIER DEFINITIONS
+
+   Tier 1 - HIGH EXPOSURE
+   Counties/parishes within 1 mile of coast in:
+   - Florida (all coastal counties)
+   - Texas (Galveston, Cameron, Nueces, Aransas, Calhoun, Matagorda,
+     Brazoria, Jefferson, Chambers, Harris coastal)
+   - Louisiana (Cameron, Vermilion, Iberia, St. Mary, Terrebonne,
+     Lafourche, Jefferson, Plaquemines, St. Bernard, Orleans coastal)
+   - Mississippi (Harrison, Hancock, Jackson)
+   - Alabama (Mobile, Baldwin)
+   - Caribbean (all territories)
+
+   Tier 2 - MODERATE EXPOSURE
+   Counties/parishes within 1-25 miles of coast in Tier 1 states,
+   plus all SC, NC, GA, VA coastal counties.
+
+   Tier 3 - LOW EXPOSURE
+   All other areas within 100 miles of Gulf or Atlantic coast.
+
+   Tier 4 - MINIMAL EXPOSURE
+   All inland locations > 100 miles from Gulf or Atlantic coast.
+
+3.2 WIND UNDERWRITING LIMITS
+
+   Tier     | Max Gross per Location | Max Net per Location | Deductible Minimum
+   ---------|----------------------|---------------------|-------------------
+   Tier 1   | $50M                 | $15M                | 5% of location TIV
+   Tier 2   | $100M                | $25M                | 3% of location TIV
+   Tier 3   | $200M                | $25M                | 2% of location TIV
+   Tier 4   | $300M                | $25M                | $50,000
+
+3.3 WIND AGGREGATE LIMITS (100-YEAR RETURN PERIOD)
+   - Maximum Gross Aggregate PML:     $200,000,000
+   - Maximum Net Aggregate PML:       $75,000,000
+   - Florida sub-aggregate limit:     $100M gross / $35M net
+   - Texas Gulf sub-aggregate limit:  $60M gross / $20M net
+   - Caribbean sub-aggregate limit:   $40M gross / $10M net
+
+3.4 WIND RATE MINIMUMS (per $1,000 TIV, wind portion only)
+   Tier 1:    $3.50 minimum
+   Tier 2:    $1.50 minimum
+   Tier 3:    $0.50 minimum
+   Tier 4:    Included in base rate
+
+3.5 CARIBBEAN SPECIFIC REQUIREMENTS
+   - SVP approval required for all Caribbean risks
+   - Facultative reinsurance MANDATORY
+   - Maximum net retention: $10M per risk
+   - Building must be engineered to withstand Category 3+ hurricane
+   - Emergency response plan documentation required
+   - Backup power (minimum 72 hours) required
+
+4. EARTHQUAKE GUIDELINES
+--------------------------------------------------------------------------------
+
+4.1 SEISMIC ZONE DEFINITIONS
+
+   Zone 5 - HIGHEST EXPOSURE
+   Within 5 miles of known active fault in CA, Pacific NW, New Madrid zone.
+
+   Zone 4 - HIGH EXPOSURE
+   California (all areas), Pacific Northwest (Seattle, Portland metros),
+   Alaska, Hawaii.
+
+   Zone 3 - MODERATE EXPOSURE
+   Utah (Wasatch Front), Nevada, Tennessee/Missouri (New Madrid),
+   South Carolina (Charleston).
+
+   Zone 2 - LOW EXPOSURE
+   All other areas with historical seismic activity.
+
+   Zone 1 - MINIMAL EXPOSURE
+   All remaining areas.
+
+4.2 EARTHQUAKE UNDERWRITING LIMITS
+
+   Zone     | Max Gross per Location | Max Net per Location | Deductible Minimum
+   ---------|----------------------|---------------------|-------------------
+   Zone 5   | $50M                 | $10M                | 5% of location TIV
+   Zone 4   | $100M                | $20M                | 3% of location TIV
+   Zone 3   | $150M                | $25M                | 2% of location TIV
+   Zone 2   | $250M                | $25M                | $100,000
+   Zone 1   | $300M                | $25M                | $50,000
+
+4.3 EARTHQUAKE AGGREGATE LIMITS (250-YEAR RETURN PERIOD)
+   - Maximum Gross Aggregate PML:     $100,000,000
+   - Maximum Net Aggregate PML:       $40,000,000
+   - California sub-aggregate:        $60M gross / $25M net
+   - Pacific NW sub-aggregate:        $30M gross / $12M net
+
+4.4 EARTHQUAKE CONSTRUCTION REQUIREMENTS
+   Zone 4-5 risks:
+   - Seismic engineering certification required
+   - Buildings must meet current building code seismic standards
+   - Pre-1980 unreinforced masonry: DECLINE
+   - Soft story construction: maximum $10M per building with retrofit plan
+
+5. FLOOD GUIDELINES
+--------------------------------------------------------------------------------
+
+5.1 FLOOD ZONE DEFINITIONS (per FEMA mapping)
+   Zone A / AE / AH / AO:    Special Flood Hazard Area (100-year floodplain)
+   Zone V / VE:               Coastal high hazard area (100-year + wave action)
+   Zone B / X500:             Moderate flood hazard (500-year floodplain)
+   Zone C / X:                Minimal flood hazard
+
+5.2 FLOOD UNDERWRITING LIMITS
+
+   Zone     | Max Sublimit per Location | Deductible Minimum
+   ---------|--------------------------|-------------------
+   A / AE   | $5,000,000               | $250,000
+   V / VE   | $2,500,000               | $500,000 or 2% TIV
+   B / X500 | $10,000,000              | $100,000
+   C / X    | Full limits              | Per policy deductible
+
+5.3 FLOOD AGGREGATE LIMITS
+   - Maximum Gross Flood PML:    $75,000,000
+   - Maximum Net Flood PML:      $30,000,000
+
+6. WILDFIRE GUIDELINES
+--------------------------------------------------------------------------------
+   - WUI (Wildland-Urban Interface) areas: maximum $25M per location
+   - Defensible space > 100 feet required
+   - Fire-resistant roofing and exterior materials preferred
+   - California WUI: 10% rate surcharge
+   - Wildfire protection plan documentation required for TIV > $50M
+
+7. CAT MODELLING REQUIREMENTS
+--------------------------------------------------------------------------------
+
+7.1 WHEN MODELLING IS REQUIRED
+   - Any single location TIV > $50M in Tier 1-2 or Zone 4-5
+   - Any portfolio with aggregate TIV > $100M in CAT-exposed areas
+   - All Caribbean risks regardless of TIV
+   - Any risk triggering aggregate limit review
+
+7.2 ACCEPTED MODELS
+   - RMS RiskLink / RMS Risk Intelligence (preferred)
+   - AIR Touchstone
+   - CoreLogic RQE
+
+7.3 RETURN PERIODS TO ANALYSE
+   - 50-year, 100-year, 250-year, 500-year OEP and AEP
+   - Results must be provided to CAT management before binding
+
+8. AGGREGATE MONITORING
+--------------------------------------------------------------------------------
+   - CAT management provides weekly aggregate position reports
+   - Aggregate headroom must be confirmed before binding any risk with
+     PML > $5M at 100-year return
+   - Aggregate limits are hard caps -- no exceptions without CUO approval
+   - Quarter-end aggregate review triggers automatic appetite adjustment
+     if limits are > 80% utilised
+
+9. FACULTATIVE REINSURANCE FOR CAT RISKS
+--------------------------------------------------------------------------------
+   - Fac MUST be placed before binding when:
+     (a) Net exposure exceeds retention limits in this document
+     (b) Caribbean territory
+     (c) Any single location PML > $15M at 100-year return
+   - Fac pricing must be included in rate adequacy calculation
+   - Fac slip must specify exact locations and perils covered
+   - Minimum fac security: AM Best A- (Excellent) or equivalent
+
+================================================================================
+APPROVAL:
+Head of Commercial Property:    Simon Button
+CAT Management:                 [CAT Manager Name]
+Date:                          01 January 2025
+Next Review:                   01 July 2025
+================================================================================

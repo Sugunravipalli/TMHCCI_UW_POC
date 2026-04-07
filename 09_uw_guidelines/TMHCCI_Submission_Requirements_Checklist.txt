@@ -1,0 +1,108 @@
+================================================================================
+         TOKIO MARINE HCC INTERNATIONAL
+         SUBMISSION REQUIREMENTS CHECKLIST
+         COMMERCIAL PROPERTY
+         For use by brokers and underwriting assistants
+================================================================================
+
+MINIMUM REQUIREMENTS TO PROVIDE AN INDICATION
+================================================================================
+
+All items marked [REQUIRED] must be provided before an indication can be issued.
+Items marked [PREFERRED] improve turnaround time and pricing accuracy.
+
+SECTION A: APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+[REQUIRED]  Named Insured (full legal entity name)
+[REQUIRED]  Mailing address
+[REQUIRED]  Primary contact name, phone, and email
+[PREFERRED] Federal Tax ID / EIN
+[PREFERRED] SIC or NAICS code
+[PREFERRED] Year established
+[PREFERRED] Annual revenue
+[PREFERRED] Website
+
+SECTION B: PROPERTY SCHEDULE
+--------------------------------------------------------------------------------
+[REQUIRED]  Schedule of Values (SOV) with ALL of the following per location:
+            - Street address, city, state/country, ZIP/postal code
+            - Building description
+            - Occupancy type
+            - Construction type (ISO classification or descriptive)
+            - Year built (and year of last major renovation if applicable)
+            - Number of stories
+            - Square footage
+            - Building value (replacement cost)
+            - Contents value (replacement cost)
+            - Business interruption value (12-month projection)
+            - Total insured value
+
+[PREFERRED] Flood zone designation per location (FEMA zone)
+[PREFERRED] Distance to coast (miles) for coastal locations
+[PREFERRED] Distance to nearest fire station (miles)
+[PREFERRED] Wind tier designation
+
+SECTION C: PROTECTION DETAILS
+--------------------------------------------------------------------------------
+[REQUIRED]  Sprinkler system: Y/N per location
+[REQUIRED]  If sprinklered: type (wet, dry, pre-action, deluge) and coverage %
+[PREFERRED] Fire alarm system: Central station / Local / None
+[PREFERRED] Security system: Y/N, type
+[PREFERRED] Roof type and age
+[PREFERRED] Backup power: Y/N, type, duration
+[PREFERRED] Fire suppression (if specialized: clean agent, foam, etc.)
+
+SECTION D: COVERAGE REQUEST
+--------------------------------------------------------------------------------
+[REQUIRED]  Property damage limit requested
+[REQUIRED]  Business interruption limit requested (and basis: actual loss / agreed)
+[REQUIRED]  Deductible preference
+[REQUIRED]  Effective and expiry dates
+[REQUIRED]  Coverage form: All Risk or Named Perils
+[PREFERRED] Sublimit preferences: Flood, Earthquake, Wind, Ordinance & Law
+[PREFERRED] Additional coverages: Debris removal, expediting expense, etc.
+[PREFERRED] Agreed value endorsement: Y/N
+
+SECTION E: LOSS HISTORY
+--------------------------------------------------------------------------------
+[REQUIRED]  5-year loss runs from current and/or prior carriers
+[REQUIRED]  Currently valued (within 90 days)
+[REQUIRED]  Detail for any loss > $25,000: date, type, paid, reserved, description
+[PREFERRED] 10-year loss history for large accounts (TIV > $100M)
+[PREFERRED] Root cause analysis for any loss > $250,000
+[PREFERRED] Corrective actions taken after significant losses
+
+SECTION F: CURRENT / EXPIRING PROGRAM
+--------------------------------------------------------------------------------
+[REQUIRED for remarketing/renewal]
+            Current carrier name
+            Expiring premium
+            Expiring terms (limits, deductibles, sublimits)
+            Reason for marketing (if not renewal)
+
+SECTION G: ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+[PREFERRED] Engineering / property condition reports
+[PREFERRED] Business interruption worksheet
+[PREFERRED] Financial statements (most recent fiscal year)
+[PREFERRED] Sprinkler test and inspection certificates
+[PREFERRED] CAT model results (if available)
+[PREFERRED] Special circumstances or risk improvements planned
+
+================================================================================
+SUBMISSION ROUTING
+================================================================================
+All submissions must be sent to:
+   Email:    submissions@tmhcci.com
+   Copy:     [assigned underwriter if known]
+
+Response time targets:
+   - Complete submission:      5 business days for indication
+   - Incomplete submission:    2 business days for information request
+   - Renewal (clean):          3 business days for renewal terms
+   - Binding order:            Same business day confirmation
+
+================================================================================
+Version: January 2025
+Contact: Commercial Property Team, TMHCCI London
+================================================================================

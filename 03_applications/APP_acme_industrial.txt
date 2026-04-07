@@ -1,0 +1,112 @@
+================================================================================
+              COMMERCIAL PROPERTY INSURANCE APPLICATION
+================================================================================
+                    TOKIO MARINE HCC INTERNATIONAL
+                      Lloyd's Syndicate 4141
+================================================================================
+
+SECTION 1: APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+Named Insured:          Acme Industrial Holdings Inc
+DBA (if any):           Acme Metalworks
+Mailing Address:        7600 Rockside Rd, Suite 200, Independence, OH 44131
+Primary Contact:        Thomas J. Brennan, CFO
+Phone:                  (216) 555-0194
+Email:                  tbrennan@acmeindustrial.com
+Website:                www.acmeindustrial.com
+Federal Tax ID / EIN:   34-6192087
+SIC Code:               3462
+NAICS Code:             332111
+Year Established:       1974
+Annual Revenue:         $112,000,000
+# Full-Time Employees:  485
+
+SECTION 2: PROPERTY INFORMATION
+--------------------------------------------------------------------------------
+Total Number of Locations:   3
+Total Insured Value (TIV):   $45,000,000
+
+  Loc 1  - Main Plant, 7600 Rockside Rd, Independence OH       - $22,000,000
+           Contents/Equipment: $12,500,000; Building: $9,500,000
+  Loc 2  - Warehouse & Shipping, 2100 Canal Rd, Cleveland OH   - $13,000,000
+           Contents/Equipment: $5,800,000; Building: $7,200,000
+  Loc 3  - Satellite Forge Shop, 490 Industrial Pkwy, Elyria OH- $10,000,000
+           Contents/Equipment: $7,400,000; Building: $2,600,000
+
+SECTION 3: CONSTRUCTION & PROTECTION
+--------------------------------------------------------------------------------
+Location 1 - Main Plant:
+  Construction:     Non-combustible steel frame, metal-clad walls
+  Year Built:       1974, renovated 2008
+  Stories:          1 (high-bay, 40 ft clear height)
+  Square Footage:   185,000 sq ft
+  Sprinkler:        Wet-pipe throughout; dry-pipe in loading docks
+  Fire Alarm:       Centrally monitored, photoelectric smoke detection
+  Roof:             Standing-seam metal, replaced 2018
+
+Location 2 - Warehouse:
+  Construction:     Pre-engineered metal building
+  Year Built:       1991
+  Stories:          1
+  Square Footage:   120,000 sq ft
+  Sprinkler:        Wet-pipe, ESFR heads in high-pile storage areas
+  Fire Alarm:       Centrally monitored
+  Roof:             Metal panels, original 1991 (33 years old)
+
+Location 3 - Satellite Forge Shop:
+  Construction:     Reinforced concrete tilt-up
+  Year Built:       1982
+  Stories:          1
+  Square Footage:   65,000 sq ft
+  Sprinkler:        [NOT PROVIDED]
+  Fire Alarm:       [NOT PROVIDED]
+  Roof:             [NOT PROVIDED]
+
+SECTION 4: COVERAGE REQUESTED
+--------------------------------------------------------------------------------
+Property Damage Limit:          $45,000,000 (blanket)
+Business Interruption Limit:    $9,000,000
+Deductible Preference:          $50,000 per occurrence
+Coverage Form:                  All Risk / Special Form
+Valuation:                      Replacement Cost
+Equipment Breakdown:            Requested (critical presses/forge equipment)
+Flood Sublimit:                 $5,000,000
+Wind/Hail Sublimit:             Full limit
+
+SECTION 5: LOSS HISTORY (PAST 5 YEARS)
+--------------------------------------------------------------------------------
+[NOT PROVIDED - Applicant has indicated loss runs will be supplied by
+ current broker under separate cover. No loss data available at this time.]
+
+SECTION 6: PROTECTIVE SAFEGUARDS
+--------------------------------------------------------------------------------
+Location 1:
+  - Automatic sprinkler system (wet-pipe); dry-pipe at docks
+  - 24/7 centrally monitored fire alarm
+  - Perimeter fencing with electronic gate access
+  - Backup diesel generator (500 kW)
+Location 2:
+  - ESFR sprinkler system
+  - Centrally monitored alarm
+  - Manned guard post (night shift only)
+Location 3:
+  - [NOT PROVIDED]
+
+SECTION 7: ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+Current Carrier:        [NOT PROVIDED]
+Expiring Premium:       [NOT PROVIDED]
+Reason for Marketing:   New broker appointment; prior broker relationship ended.
+Prior Cancellations:    None known
+Bankruptcy History:     None
+Pending Litigation:     [NOT PROVIDED]
+
+NOTE: This application is submitted with known data gaps. Additional
+information for Location 3 and the loss history will be forwarded as
+soon as available. Applicant requests preliminary indication in the
+interim.
+
+APPLICANT SIGNATURE
+Date:       February 28, 2026
+Name:       Thomas J. Brennan
+Title:      Chief Financial Officer, Acme Industrial Holdings Inc

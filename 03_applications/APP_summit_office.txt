@@ -1,0 +1,111 @@
+================================================================================
+              COMMERCIAL PROPERTY INSURANCE APPLICATION
+================================================================================
+                    TOKIO MARINE HCC INTERNATIONAL
+                      Lloyd's Syndicate 4141
+================================================================================
+
+SECTION 1: APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+Named Insured:          Summit Office Partners LP
+DBA (if any):           Summit Properties
+Mailing Address:        450 Park Ave, 28th Floor, New York, NY 10022
+Primary Contact:        David Chen, Managing Director
+Phone:                  (212) 555-9088
+Email:                  d.chen@summitoffice.com
+Website:                www.summitofficepartners.com
+Federal Tax ID / EIN:   13-6752041
+SIC Code:               6512
+NAICS Code:             531120
+Year Established:       2005
+Annual Revenue:         $145,000,000
+# Full-Time Employees:  82
+
+SECTION 2: PROPERTY INFORMATION
+--------------------------------------------------------------------------------
+Total Number of Locations:   6
+Total Insured Value (TIV):   $75,000,000
+
+  Loc 1  - Summit Tower, 450 Park Ave, New York NY 10022          - $22,000,000
+           (Floors 20-30 of 42-storey Class A high-rise; condo interest)
+  Loc 2  - Summit Plaza, 1185 Avenue of the Americas, New York NY - $16,000,000
+           (Floors 8-14 of 36-storey tower; leasehold interest)
+  Loc 3  - Summit Westchester, 100 Main St, White Plains NY        - $12,000,000
+           (Full ownership, 8-storey Class A office)
+  Loc 4  - Summit Stamford, 300 Atlantic St, Stamford CT           - $10,500,000
+           (Full ownership, 6-storey Class A office)
+  Loc 5  - Summit Jersey City, 30 Hudson St, Jersey City NJ        - $8,500,000
+           (Floors 5-8 of 30-storey tower; condo interest)
+  Loc 6  - Summit Garden City, 600 Old Country Rd, Garden City NY  - $6,000,000
+           (Full ownership, 4-storey suburban Class A)
+
+SECTION 3: CONSTRUCTION & PROTECTION
+--------------------------------------------------------------------------------
+Primary Construction:   Fire-resistive steel frame with curtain wall (Manhattan);
+                        reinforced concrete (suburban locations)
+Year Built Range:       1981 - 2017
+Stories:                4 to 42 (see location details above)
+Total Square Footage:   620,000 sq ft (rentable area under management)
+Sprinkler Systems:      All 6 locations fully sprinklered (wet-pipe)
+Fire Alarm:             Addressable fire alarm with voice evacuation (NYC);
+                        conventional monitored systems (suburban)
+Security:               Lobby attendant and CCTV at all locations; building
+                        access card at all; 24/7 concierge at Loc 1 and Loc 2
+Elevator:               Passenger and freight elevators at all locations
+Roof Type:              Modified bitumen or TPO (suburban); common-area
+                        responsibility at condo/leasehold locations
+Average Occupancy:      93% leased across portfolio
+
+SECTION 4: COVERAGE REQUESTED
+--------------------------------------------------------------------------------
+Property Damage Limit:          $75,000,000 (blanket)
+Business Interruption Limit:    $18,750,000 (12-month rental income)
+Deductible Preference:          $100,000 per occurrence
+Coverage Form:                  All Risk / Special Form
+Valuation:                      Replacement Cost (owned); betterments &
+                                improvements (leasehold interests)
+Flood Sublimit:                 $10,000,000 (Loc 5 in Zone AE)
+Wind Sublimit:                  Full limit
+Earthquake Sublimit:            $15,000,000 (2% of TIV deductible)
+Ordinance or Law:               $5,000,000
+Loss of Rents / Rental Value:   $18,750,000
+
+SECTION 5: LOSS HISTORY (PAST 5 YEARS)
+--------------------------------------------------------------------------------
+Year    Location              Cause of Loss            Gross Incurred   Status
+----    --------              -------------            --------------   ------
+2025    Loc 3, White Plains   Burst pipe / water         $210,000       Closed
+2024    Loc 1, Park Ave       Elevator motor failure     $125,000       Closed
+2023    Loc 5, Jersey City    Tenant fit-out fire         $88,000       Closed
+2022    None reported         --                         --             --
+2021    None reported         --                         --             --
+
+Total 5-year incurred losses: $423,000
+Note: Excellent loss record relative to portfolio size.
+
+SECTION 6: PROTECTIVE SAFEGUARDS
+--------------------------------------------------------------------------------
+- Fully automatic wet-pipe sprinkler systems at all 6 locations
+- Centrally monitored fire alarm systems (UL-listed monitoring)
+- 24/7 lobby security and building management staff at NYC locations
+- Emergency generators for life-safety systems at all properties
+- Annual fire pump testing and 5-year sprinkler system inspections
+- Water leak detection sensors on all occupied floors
+
+SECTION 7: ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+Current Carrier:        Hartford Financial / Navigators (surplus lines)
+Expiring Premium:       $612,000 (expiring 05/01/2026)
+Reason for Marketing:   Seeking competitive pricing; loss record supports
+                        rate reduction. Also exploring broader flood capacity
+                        for Jersey City location.
+Prior Cancellations:    None
+Bankruptcy History:     None
+Pending Litigation:     None
+Tenant Profile:         Financial services (38%), legal (22%), technology (18%),
+                        professional services (14%), other (8%)
+
+APPLICANT SIGNATURE
+Date:       February 25, 2026
+Name:       David Chen
+Title:      Managing Director, Summit Office Partners LP

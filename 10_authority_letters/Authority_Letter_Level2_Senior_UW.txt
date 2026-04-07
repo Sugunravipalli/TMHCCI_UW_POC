@@ -1,0 +1,80 @@
+================================================================================
+         TOKIO MARINE HCC INTERNATIONAL
+         UNDERWRITING AUTHORITY LETTER
+         LEVEL 2 - SENIOR UNDERWRITER
+================================================================================
+
+Date:           1 January 2025
+Authority Holder: Claire Hemsworth / Robert Tanner
+Title:          Senior Underwriter, Commercial Property
+Reporting To:   Simon Button, SVP Commercial Property
+Effective:      1 January 2025 to 31 December 2025
+
+================================================================================
+BINDING AUTHORITY LIMITS
+================================================================================
+
+1. PER-RISK AUTHORITY
+   - Maximum Net Line:              $15,000,000
+   - Maximum Gross Line:            $30,000,000
+   - Maximum Total Insured Value:   $150,000,000
+
+2. PRICING AUTHORITY
+   - Maximum Deviation from Technical Rate:    15% below technical
+   - Above-technical pricing:                  Unlimited (no restriction)
+   - Minimum premium:                          $15,000
+
+3. TERRITORY
+   - United States (all states, subject to CAT guidelines)
+   - Canada
+   - United Kingdom
+   - EU / EEA
+   - Australia / New Zealand
+
+4. COVERAGE FORMS
+   - Standard ISO forms
+   - Pre-approved manuscript endorsements (per approved endorsement list)
+   - Novel manuscript requires SVP review
+
+5. POLICY PERIOD
+   - Maximum 12 months
+   - 18-month policies: SVP approval required
+
+================================================================================
+MANDATORY REFERRAL TRIGGERS
+================================================================================
+
+The Authority Holder MUST refer to Level 3 (SVP) when ANY of the following:
+
+   [R1]  Total Insured Value exceeds $150,000,000
+   [R2]  Net line exceeds $15,000,000
+   [R3]  Rate deviation exceeds 15% below technical
+   [R4]  5-year loss ratio exceeds 75%
+   [R5]  Any single loss exceeds $1,000,000 in past 24 months
+   [R6]  Caribbean territory
+   [R7]  Excluded class exception requested
+   [R8]  Energy sector (all risks regardless of size)
+   [R9]  Aggregate PML contribution > $10M at 100-year return
+   [R10] Policy period > 12 months
+   [R11] Novel manuscript form
+   [R12] Gross line requires > $30M fac placement
+
+================================================================================
+ADDITIONAL AUTHORITIES (Level 2 Specific)
+================================================================================
+
+The Senior Underwriter may:
+   - Approve Level 1 referrals (R1-R14 from Level 1 authority)
+   - Approve non-standard deductible structures within pricing authority
+   - Approve sprinkler waiver for buildings < $10M TIV with rate surcharge
+   - Accept business from new brokers after due diligence
+   - Authorize fac placements up to $15M
+   - Approve schedule modifications up to 15% credit
+
+================================================================================
+APPROVAL
+
+Issued by:    Simon Button, SVP Commercial Property
+Signature:    [Signature]
+Date:         1 January 2025
+================================================================================

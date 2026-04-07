@@ -1,0 +1,101 @@
+================================================================================
+              COMMERCIAL PROPERTY INSURANCE APPLICATION
+================================================================================
+                    TOKIO MARINE HCC INTERNATIONAL
+                      Lloyd's Syndicate 4141
+================================================================================
+
+SECTION 1: APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+Named Insured:          Gulf Coast Energy Storage LLC
+DBA (if any):           GCES / Gulf Coast Storage
+Mailing Address:        4700 Post Oak Blvd, Suite 1600, Houston, TX 77027
+Primary Contact:        Marcus L. Thibodeaux, Risk Manager
+Phone:                  (713) 555-8201
+Email:                  m.thibodeaux@gulfcoastenergy.com
+Website:                www.gulfcoastenergystorage.com
+Federal Tax ID / EIN:   76-3890214
+SIC Code:               5171
+NAICS Code:             493190
+Year Established:       2009
+Annual Revenue:         $210,000,000
+# Full-Time Employees:  275
+
+SECTION 2: PROPERTY INFORMATION
+--------------------------------------------------------------------------------
+Total Number of Locations:   5
+Total Insured Value (TIV):   $95,000,000
+
+  Loc 1  - Baytown Terminal, 3800 Decker Dr, Baytown TX           - $32,000,000
+  Loc 2  - Texas City Facility, 9200 Hwy 146, Texas City TX      - $24,000,000
+  Loc 3  - Beaumont Station, 5100 Delaware St, Beaumont TX        - $18,000,000
+  Loc 4  - Port Arthur Depot, 2700 Twin City Hwy, Port Arthur TX  - $12,000,000
+  Loc 5  - Corpus Christi Hub, 1400 Up River Rd, Corpus Christi TX- $9,000,000
+
+Storage Products:  Refined petroleum products, natural gas liquids,
+                   biodiesel, ethanol, lubricant base stocks
+Total Shell Capacity: 4.2 million barrels
+
+SECTION 3: CONSTRUCTION & PROTECTION
+--------------------------------------------------------------------------------
+Primary Construction:   Welded steel above-ground storage tanks (ASTs)
+                        with concrete containment dikes; steel-frame pump
+                        houses; pre-engineered metal office/control buildings
+Tank Construction:      API 650 welded steel, cone/dome roofs
+Year Built Range:       2009 - 2022 (newest tanks at Loc 5)
+Office/Control Buildings: 1 to 2 stories, non-combustible
+Sprinkler:              Fixed foam suppression on all tanks >50,000 bbl;
+                        wet-pipe sprinklers in office and control buildings
+Fire Protection:        On-site firewater loop with diesel-driven fire pumps;
+                        monitor nozzles at each tank battery
+Security:               Perimeter fencing, CCTV, manned gate 24/7 at all sites
+Roof (buildings):       Metal panel, all less than 10 years old
+
+SECTION 4: COVERAGE REQUESTED
+--------------------------------------------------------------------------------
+Property Damage Limit:          $95,000,000 (blanket)
+Business Interruption Limit:    $30,000,000 (12-month)
+Deductible Preference:          $250,000 per occurrence
+Coverage Form:                  All Risk / Special Form
+Named Storm Deductible:         5% of location TIV
+Flood Sublimit:                 $20,000,000
+Wind/Named Storm Sublimit:      $50,000,000
+Pollution Legal Liability:      $10,000,000 (if available on property form)
+
+SECTION 5: LOSS HISTORY (PAST 5 YEARS)
+--------------------------------------------------------------------------------
+Year    Location              Cause of Loss            Gross Incurred   Status
+----    --------              -------------            --------------   ------
+2025    Loc 1, Baytown        Lightning strike / fire     $1,400,000    Closed
+2024    Loc 3, Beaumont       Hurricane (Cat 1) wind       $780,000    Closed
+2023    Loc 2, Texas City     Pump seal failure / spill    $340,000    Closed
+2022    None reported         --                           --          --
+2021    Loc 1, Baytown        Tropical storm flooding      $520,000    Closed
+
+Total 5-year incurred losses: $3,040,000
+
+SECTION 6: PROTECTIVE SAFEGUARDS
+--------------------------------------------------------------------------------
+- Fixed foam suppression systems on all large-diameter tanks
+- Diesel-driven fire pumps independent of electrical supply
+- Firewater loop with hydrants every 250 ft
+- Vapour detection system (continuous LEL monitoring)
+- SPCC plans and secondary containment at all locations
+- 24/7 manned control room with SCADA monitoring
+- Annual API 653 tank inspections; 10-year internal inspections
+
+SECTION 7: ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+Current Carrier:        Allianz Global Corporate & Specialty
+Expiring Premium:       $1,050,000 (expiring 10/01/2026)
+Reason for Marketing:   Adding Loc 5 (Corpus Christi); current carrier unwilling
+                        to expand capacity without significant rate increase.
+Prior Cancellations:    None
+Bankruptcy History:     None
+EPA/TCEQ Violations:    One Notice of Violation (2022) - corrected, no fine levied
+PSM/RMP Compliance:     Fully compliant at all locations
+
+APPLICANT SIGNATURE
+Date:       March 22, 2026
+Name:       Marcus L. Thibodeaux
+Title:      Risk Manager, Gulf Coast Energy Storage LLC

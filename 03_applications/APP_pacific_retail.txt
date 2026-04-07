@@ -1,0 +1,95 @@
+================================================================================
+              COMMERCIAL PROPERTY INSURANCE APPLICATION
+================================================================================
+                    TOKIO MARINE HCC INTERNATIONAL
+                      Lloyd's Syndicate 4141
+================================================================================
+
+SECTION 1: APPLICANT INFORMATION
+--------------------------------------------------------------------------------
+Named Insured:          Pacific Retail Group LLC
+DBA (if any):           Pacific Centres
+Mailing Address:        3200 Peachtree Road NE, Suite 1400, Atlanta, GA 30305
+Primary Contact:        Sandra K. Whitfield, VP of Risk Management
+Phone:                  (404) 555-2380
+Email:                  s.whitfield@pacificretailgroup.com
+Website:                www.pacificretailgroup.com
+Federal Tax ID / EIN:   58-3471209
+SIC Code:               6512
+NAICS Code:             531120
+Year Established:       1997
+Annual Revenue:         $485,000,000
+# Full-Time Employees:  2,340
+
+SECTION 2: PROPERTY INFORMATION
+--------------------------------------------------------------------------------
+Total Number of Locations:   47
+Total Insured Value (TIV):   $120,000,000
+
+Location Summary (see attached SOV for full schedule):
+  Loc 1  - Peachtree Plaza, 3200 Peachtree Rd NE, Atlanta GA        - $8,200,000
+  Loc 2  - Buckhead Station, 1250 Lenox Park Blvd, Atlanta GA       - $6,500,000
+  Loc 3  - Savannah Commons, 420 Drayton St, Savannah GA             - $4,100,000
+  Loc 4  - Augusta Crossing, 3540 Wheeler Rd, Augusta GA             - $3,800,000
+  Loc 5  - Macon Town Centre, 101 Riverside Dr, Macon GA             - $3,200,000
+  Remaining 42 locations across GA, SC, and TN - see attached SOV.
+
+SECTION 3: CONSTRUCTION & PROTECTION
+--------------------------------------------------------------------------------
+Primary Construction:   Steel frame with masonry exterior (majority)
+                        8 locations reinforced concrete, 4 wood-frame strip malls
+Year Built Range:       1988 - 2019
+Stories:                1 to 3 (majority single-storey retail)
+Total Square Footage:   4,120,000 sq ft across all locations
+Sprinkler Systems:      44 of 47 locations fully sprinklered (wet pipe)
+                        3 older strip-mall locations have partial coverage only
+Fire Alarm:             Centrally monitored fire alarm at all locations
+Security:               24/7 on-site security at 12 major centres;
+                        CCTV and alarm-only at remaining locations
+Roof Type:              Built-up membrane (32 locations), TPO (12), metal (3)
+Average Roof Age:       11 years; oldest roof replaced 2014
+
+SECTION 4: COVERAGE REQUESTED
+--------------------------------------------------------------------------------
+Property Damage Limit:          $120,000,000 (blanket)
+Business Interruption Limit:    $24,000,000 (12-month ALE)
+Deductible Preference:          $100,000 per occurrence
+Coverage Form:                  All Risk / Special Form
+Valuation:                      Replacement Cost
+Wind/Hail Sublimit:             $15,000,000 (2% location deductible)
+Flood Sublimit:                 $10,000,000 (NFIP as primary, excess requested)
+Earthquake Sublimit:            Not requested
+
+SECTION 5: LOSS HISTORY (PAST 5 YEARS)
+--------------------------------------------------------------------------------
+Year    Location              Cause of Loss       Gross Incurred    Status
+----    --------              -------------       --------------    ------
+2025    Loc 14, Valdosta GA   Wind / hail damage   $312,000         Closed
+2024    Loc 3, Savannah GA    Roof leak / water    $87,500          Closed
+2023    Loc 22, Dalton GA     Slip-and-fall claim  $42,000          Closed
+2022    Loc 1, Atlanta GA     HVAC fire (small)    $165,000         Closed
+2021    None reported         --                   --               --
+
+Total 5-year incurred losses: $606,500
+
+SECTION 6: PROTECTIVE SAFEGUARDS
+--------------------------------------------------------------------------------
+- Wet-pipe automatic sprinklers at 44 of 47 locations
+- 24/7 centrally monitored fire and burglar alarms (UL-listed)
+- Emergency backup generators at 12 major retail centres
+- Quarterly fire extinguisher inspections company-wide
+- Annual third-party fire protection audit
+
+SECTION 7: ADDITIONAL INFORMATION
+--------------------------------------------------------------------------------
+Current Carrier:        Zurich Insurance (expiring 06/30/2026)
+Reason for Marketing:   Seeking competitive terms on renewal; current premium
+                        increased 14% at last renewal.
+Prior Cancellations:    None
+Bankruptcy History:     None
+Pending Litigation:     None material to property coverage
+
+APPLICANT SIGNATURE
+Date:       March 12, 2026
+Name:       Sandra K. Whitfield
+Title:      VP of Risk Management, Pacific Retail Group LLC
