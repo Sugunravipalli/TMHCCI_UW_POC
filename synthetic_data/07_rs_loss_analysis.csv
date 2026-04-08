@@ -1,0 +1,454 @@
+source_file,policy_year,num_claims,total_incurred,loss_ratio
+RS_acme_industrial_2026,2021,0,0,0
+RS_acme_industrial_2026,2022,0,0,0
+RS_acme_industrial_2026,2023,1,200000,0.83
+RS_acme_industrial_2026,2024,1,85000,0.35
+RS_acme_industrial_2026,2025,0,0,0
+RS_acme_industrial_2026,Large Loss Detail,,,
+RS_acme_industrial_2026,"$200K water main burst (2023) -- inventory loss in Building 2.
+$85K electrical fire (2024) -- shop floor, caught early by night watchman.",,,
+RS_acme_industrial_2026,Loss Development Notes,,,
+RS_acme_industrial_2026,Both claims closed and fully developed. No subrogation recovery expected on water main.,,,
+RS_apex_precision_2025,2020,1,17627,0.22
+RS_apex_precision_2025,2021,1,127302,1.62
+RS_apex_precision_2025,2022,0,0,0
+RS_apex_precision_2025,2023,0,0,0
+RS_apex_precision_2025,2024,1,234508,2.98
+RS_apex_precision_2025,Large Loss Detail,,,
+RS_apex_precision_2025,No individual loss exceeds reporting threshold.,,,
+RS_apex_precision_2025,Loss Development Notes,,,
+RS_apex_precision_2025,All claims fully developed. No adverse development.,,,
+RS_arctic_cold_2025,2020,0,0,0
+RS_arctic_cold_2025,2021,0,0,0
+RS_arctic_cold_2025,2022,2,416966,1.62
+RS_arctic_cold_2025,2023,1,185248,0.72
+RS_arctic_cold_2025,2024,1,347181,1.35
+RS_arctic_cold_2025,Large Loss Detail,,,
+RS_arctic_cold_2025,No individual loss exceeds reporting threshold.,,,
+RS_arctic_cold_2025,Loss Development Notes,,,
+RS_arctic_cold_2025,All claims fully developed. No adverse development.,,,
+RS_atlantic_seafood_2026,2021,0,0,0
+RS_atlantic_seafood_2026,2022,0,0,0
+RS_atlantic_seafood_2026,2023,0,0,0
+RS_atlantic_seafood_2026,2024,0,0,0
+RS_atlantic_seafood_2026,2025,1,2100000,5.6
+RS_atlantic_seafood_2026,Large Loss Detail,,,
+RS_atlantic_seafood_2026,"$2.1M refrigeration system failure (2025) -- catastrophic compressor failure, complete cold storage inventory loss ($1.8M) plus equipment and BI. $150K reserved.",,,
+RS_atlantic_seafood_2026,Loss Development Notes,,,
+RS_atlantic_seafood_2026,"2025 large loss: $1.95M paid, $150K reserve for final BI settlement. Expected to close Q3 2026.",,,
+RS_bayou_chemical_2024,2019,3,514166,1.58
+RS_bayou_chemical_2024,2020,1,248857,0.76
+RS_bayou_chemical_2024,2021,2,324783,1
+RS_bayou_chemical_2024,2022,0,0,0
+RS_bayou_chemical_2024,2023,0,0,0
+RS_bayou_chemical_2024,Large Loss Detail,,,
+RS_bayou_chemical_2024,No individual loss exceeds reporting threshold.,,,
+RS_bayou_chemical_2024,Loss Development Notes,,,
+RS_bayou_chemical_2024,All claims fully developed. No adverse development.,,,
+RS_blackwood_timber_2024,2019,2,192710,6.21
+RS_blackwood_timber_2024,2020,1,29845,0.96
+RS_blackwood_timber_2024,2021,2,140937,4.54
+RS_blackwood_timber_2024,2022,1,117335,3.78
+RS_blackwood_timber_2024,2023,0,0,0
+RS_blackwood_timber_2024,Large Loss Detail,,,
+RS_blackwood_timber_2024,No individual loss exceeds reporting threshold.,,,
+RS_blackwood_timber_2024,Loss Development Notes,,,
+RS_blackwood_timber_2024,All claims fully developed. No adverse development.,,,
+RS_bluestone_warehouse_2025,2020,1,61235,0.25
+RS_bluestone_warehouse_2025,2021,0,0,0
+RS_bluestone_warehouse_2025,2022,0,0,0
+RS_bluestone_warehouse_2025,2023,0,0,0
+RS_bluestone_warehouse_2025,2024,0,0,0
+RS_bluestone_warehouse_2025,Large Loss Detail,,,
+RS_bluestone_warehouse_2025,No individual loss exceeds reporting threshold.,,,
+RS_bluestone_warehouse_2025,Loss Development Notes,,,
+RS_bluestone_warehouse_2025,All claims fully developed. No adverse development.,,,
+RS_brighton_health_2025,2020,2,107114,0.21
+RS_brighton_health_2025,2021,1,188389,0.37
+RS_brighton_health_2025,2022,0,0,0
+RS_brighton_health_2025,2023,0,0,0
+RS_brighton_health_2025,2024,1,63587,0.12
+RS_brighton_health_2025,Large Loss Detail,,,
+RS_brighton_health_2025,No individual loss exceeds reporting threshold.,,,
+RS_brighton_health_2025,Loss Development Notes,,,
+RS_brighton_health_2025,All claims fully developed. No adverse development.,,,
+RS_cardinal_health_2024,2019,0,0,0
+RS_cardinal_health_2024,2020,0,0,0
+RS_cardinal_health_2024,2021,0,0,0
+RS_cardinal_health_2024,2022,1,95246,0.17
+RS_cardinal_health_2024,2023,0,0,0
+RS_cardinal_health_2024,Large Loss Detail,,,
+RS_cardinal_health_2024,No individual loss exceeds reporting threshold.,,,
+RS_cardinal_health_2024,Loss Development Notes,,,
+RS_cardinal_health_2024,All claims fully developed. No adverse development.,,,
+RS_cascade_tech_2026,2021,0,0,0
+RS_cascade_tech_2026,2022,0,0,0
+RS_cascade_tech_2026,2023,0,0,0
+RS_cascade_tech_2026,2024,0,0,0
+RS_cascade_tech_2026,2025,0,0,0
+RS_cascade_tech_2026,Large Loss Detail,,,
+RS_cascade_tech_2026,None.,,,
+RS_cascade_tech_2026,Loss Development Notes,,,
+RS_cascade_tech_2026,No losses. Facilities operational since 2019/2020.,,,
+RS_central_warehouse_2026,2021,0,0,0
+RS_central_warehouse_2026,2022,0,0,0
+RS_central_warehouse_2026,2023,0,0,0
+RS_central_warehouse_2026,2024,2,367851,0.9
+RS_central_warehouse_2026,2025,1,261052,0.64
+RS_central_warehouse_2026,Large Loss Detail,,,
+RS_central_warehouse_2026,No individual loss exceeds reporting threshold.,,,
+RS_central_warehouse_2026,Loss Development Notes,,,
+RS_central_warehouse_2026,All claims fully developed. No adverse development.,,,
+RS_coastal_marina_2025,2020,1,345921,0.65
+RS_coastal_marina_2025,2021,2,223725,0.42
+RS_coastal_marina_2025,2022,0,0,0
+RS_coastal_marina_2025,2023,2,253789,0.47
+RS_coastal_marina_2025,2024,0,0,0
+RS_coastal_marina_2025,Large Loss Detail,,,
+RS_coastal_marina_2025,No individual loss exceeds reporting threshold.,,,
+RS_coastal_marina_2025,Loss Development Notes,,,
+RS_coastal_marina_2025,All claims fully developed. No adverse development.,,,
+RS_continental_logistics_2025,2020,0,0,0
+RS_continental_logistics_2025,2021,1,228104,0.53
+RS_continental_logistics_2025,2022,0,0,0
+RS_continental_logistics_2025,2023,0,0,0
+RS_continental_logistics_2025,2024,1,208291,0.49
+RS_continental_logistics_2025,Large Loss Detail,,,
+RS_continental_logistics_2025,No individual loss exceeds reporting threshold.,,,
+RS_continental_logistics_2025,Loss Development Notes,,,
+RS_continental_logistics_2025,All claims fully developed. No adverse development.,,,
+RS_crown_properties_2025,2020,0,0,0
+RS_crown_properties_2025,2021,0,0,0
+RS_crown_properties_2025,2022,0,0,0
+RS_crown_properties_2025,2023,0,0,0
+RS_crown_properties_2025,2024,0,0,0
+RS_crown_properties_2025,Large Loss Detail,,,
+RS_crown_properties_2025,No individual loss exceeds reporting threshold.,,,
+RS_crown_properties_2025,Loss Development Notes,,,
+RS_crown_properties_2025,All claims fully developed. No adverse development.,,,
+RS_eastcoast_food_2026,2021,0,0,0
+RS_eastcoast_food_2026,2022,0,0,0
+RS_eastcoast_food_2026,2023,0,0,0
+RS_eastcoast_food_2026,2024,1,217395,0.86
+RS_eastcoast_food_2026,2025,3,900492,3.57
+RS_eastcoast_food_2026,Large Loss Detail,,,
+RS_eastcoast_food_2026,No individual loss exceeds reporting threshold.,,,
+RS_eastcoast_food_2026,Loss Development Notes,,,
+RS_eastcoast_food_2026,All claims fully developed. No adverse development.,,,
+RS_eastside_plastics_2025,2020,0,0,0
+RS_eastside_plastics_2025,2021,1,24663,0.48
+RS_eastside_plastics_2025,2022,0,0,0
+RS_eastside_plastics_2025,2023,3,428240,8.41
+RS_eastside_plastics_2025,2024,0,0,0
+RS_eastside_plastics_2025,Large Loss Detail,,,
+RS_eastside_plastics_2025,No individual loss exceeds reporting threshold.,,,
+RS_eastside_plastics_2025,Loss Development Notes,,,
+RS_eastside_plastics_2025,All claims fully developed. No adverse development.,,,
+RS_grandview_hotel_2025,2020,1,234118,0.71
+RS_grandview_hotel_2025,2021,0,0,0
+RS_grandview_hotel_2025,2022,1,314088,0.96
+RS_grandview_hotel_2025,2023,0,0,0
+RS_grandview_hotel_2025,2024,0,0,0
+RS_grandview_hotel_2025,Large Loss Detail,,,
+RS_grandview_hotel_2025,No individual loss exceeds reporting threshold.,,,
+RS_grandview_hotel_2025,Loss Development Notes,,,
+RS_grandview_hotel_2025,All claims fully developed. No adverse development.,,,
+RS_greenfield_office_2025,2020,0,0,0
+RS_greenfield_office_2025,2021,1,185014,0.39
+RS_greenfield_office_2025,2022,0,0,0
+RS_greenfield_office_2025,2023,0,0,0
+RS_greenfield_office_2025,2024,0,0,0
+RS_greenfield_office_2025,Large Loss Detail,,,
+RS_greenfield_office_2025,No individual loss exceeds reporting threshold.,,,
+RS_greenfield_office_2025,Loss Development Notes,,,
+RS_greenfield_office_2025,All claims fully developed. No adverse development.,,,
+RS_gulf_coast_energy_2026,2021,0,0,0
+RS_gulf_coast_energy_2026,2022,0,0,0
+RS_gulf_coast_energy_2026,2023,0,0,0
+RS_gulf_coast_energy_2026,2024,1,145000,0.19
+RS_gulf_coast_energy_2026,2025,0,0,0
+RS_gulf_coast_energy_2026,Large Loss Detail,,,
+RS_gulf_coast_energy_2026,$145K tropical storm roof/piping damage (2024) at Galveston facility. $25K reserved.,,,
+RS_gulf_coast_energy_2026,Loss Development Notes,,,
+RS_gulf_coast_energy_2026,"2024 storm claim: $120K paid, $25K reserve for remaining repairs. Expected to close Q2 2026.",,,
+RS_harley_medical_2024,2019,0,0,0
+RS_harley_medical_2024,2020,1,176859,0.63
+RS_harley_medical_2024,2021,1,221411,0.79
+RS_harley_medical_2024,2022,3,379017,1.35
+RS_harley_medical_2024,2023,0,0,0
+RS_harley_medical_2024,Large Loss Detail,,,
+RS_harley_medical_2024,No individual loss exceeds reporting threshold.,,,
+RS_harley_medical_2024,Loss Development Notes,,,
+RS_harley_medical_2024,All claims fully developed. No adverse development.,,,
+RS_heartland_foods_2025,2020,0,0,0
+RS_heartland_foods_2025,2021,1,163911,1.24
+RS_heartland_foods_2025,2022,0,0,0
+RS_heartland_foods_2025,2023,0,0,0
+RS_heartland_foods_2025,2024,0,0,0
+RS_heartland_foods_2025,Large Loss Detail,,,
+RS_heartland_foods_2025,No individual loss exceeds reporting threshold.,,,
+RS_heartland_foods_2025,Loss Development Notes,,,
+RS_heartland_foods_2025,All claims fully developed. No adverse development.,,,
+RS_heritage_hotels_2026,2021,0,0,0
+RS_heritage_hotels_2026,2022,1,350000,0.32
+RS_heritage_hotels_2026,2023,2,1200000,1.1
+RS_heritage_hotels_2026,2024,0,0,0
+RS_heritage_hotels_2026,2025,1,180000,0.16
+RS_heritage_hotels_2026,Large Loss Detail,,,
+RS_heritage_hotels_2026,"$800K wind/water damage from Tropical Storm (2023) at Turks & Caicos property.
+$400K flood loss at Ft. Lauderdale location (2023).",,,
+RS_heritage_hotels_2026,Loss Development Notes,,,
+RS_heritage_hotels_2026,2023 tropical storm claim still developing -- $50K reserve remaining. Flood claim closed.,,,
+RS_highstreet_retail_2024,2019,0,0,0
+RS_highstreet_retail_2024,2020,2,167090,0.96
+RS_highstreet_retail_2024,2021,1,302900,1.74
+RS_highstreet_retail_2024,2022,0,0,0
+RS_highstreet_retail_2024,2023,0,0,0
+RS_highstreet_retail_2024,Large Loss Detail,,,
+RS_highstreet_retail_2024,No individual loss exceeds reporting threshold.,,,
+RS_highstreet_retail_2024,Loss Development Notes,,,
+RS_highstreet_retail_2024,All claims fully developed. No adverse development.,,,
+RS_island_resort_2024,2019,0,0,0
+RS_island_resort_2024,2020,0,0,0
+RS_island_resort_2024,2021,0,0,0
+RS_island_resort_2024,2022,0,0,0
+RS_island_resort_2024,2023,0,0,0
+RS_island_resort_2024,Large Loss Detail,,,
+RS_island_resort_2024,No individual loss exceeds reporting threshold.,,,
+RS_island_resort_2024,Loss Development Notes,,,
+RS_island_resort_2024,All claims fully developed. No adverse development.,,,
+RS_legacy_textiles_2025,2020,0,0,0
+RS_legacy_textiles_2025,2021,0,0,0
+RS_legacy_textiles_2025,2022,0,0,0
+RS_legacy_textiles_2025,2023,1,178233,2.71
+RS_legacy_textiles_2025,2024,1,294217,4.48
+RS_legacy_textiles_2025,Large Loss Detail,,,
+RS_legacy_textiles_2025,No individual loss exceeds reporting threshold.,,,
+RS_legacy_textiles_2025,Loss Development Notes,,,
+RS_legacy_textiles_2025,All claims fully developed. No adverse development.,,,
+RS_meridian_mixed_2024,2019,1,181204,0.8
+RS_meridian_mixed_2024,2020,1,150704,0.67
+RS_meridian_mixed_2024,2021,1,332410,1.47
+RS_meridian_mixed_2024,2022,1,356689,1.58
+RS_meridian_mixed_2024,2023,0,0,0
+RS_meridian_mixed_2024,Large Loss Detail,,,
+RS_meridian_mixed_2024,No individual loss exceeds reporting threshold.,,,
+RS_meridian_mixed_2024,Loss Development Notes,,,
+RS_meridian_mixed_2024,All claims fully developed. No adverse development.,,,
+RS_metro_parking_2025,2020,0,0,0
+RS_metro_parking_2025,2021,0,0,0
+RS_metro_parking_2025,2022,3,953403,1.21
+RS_metro_parking_2025,2023,0,0,0
+RS_metro_parking_2025,2024,1,124766,0.16
+RS_metro_parking_2025,Large Loss Detail,,,
+RS_metro_parking_2025,No individual loss exceeds reporting threshold.,,,
+RS_metro_parking_2025,Loss Development Notes,,,
+RS_metro_parking_2025,All claims fully developed. No adverse development.,,,
+RS_midwest_ag_2026,2021,1,78000,0.38
+RS_midwest_ag_2026,2022,0,0,0
+RS_midwest_ag_2026,2023,1,45000,0.22
+RS_midwest_ag_2026,2024,1,32000,0.15
+RS_midwest_ag_2026,2025,0,0,0
+RS_midwest_ag_2026,Large Loss Detail,,,
+RS_midwest_ag_2026,No individual loss exceeds $100K.,,,
+RS_midwest_ag_2026,Loss Development Notes,,,
+RS_midwest_ag_2026,All claims closed. Predominantly weather-related attritional losses.,,,
+RS_national_print_2024,2019,0,0,0
+RS_national_print_2024,2020,0,0,0
+RS_national_print_2024,2021,0,0,0
+RS_national_print_2024,2022,0,0,0
+RS_national_print_2024,2023,1,162962,0.83
+RS_national_print_2024,Large Loss Detail,,,
+RS_national_print_2024,No individual loss exceeds reporting threshold.,,,
+RS_national_print_2024,Loss Development Notes,,,
+RS_national_print_2024,All claims fully developed. No adverse development.,,,
+RS_nexus_data_2025,2020,1,157000,0.27
+RS_nexus_data_2025,2021,2,466492,0.82
+RS_nexus_data_2025,2022,1,367728,0.64
+RS_nexus_data_2025,2023,0,0,0
+RS_nexus_data_2025,2024,2,592421,1.04
+RS_nexus_data_2025,Large Loss Detail,,,
+RS_nexus_data_2025,No individual loss exceeds reporting threshold.,,,
+RS_nexus_data_2025,Loss Development Notes,,,
+RS_nexus_data_2025,All claims fully developed. No adverse development.,,,
+RS_northern_mfg_2026,2023,0,0,0
+RS_northern_mfg_2026,2024,0,0,0
+RS_northern_mfg_2026,2025,0,0,0
+RS_northern_mfg_2026,Large Loss Detail,,,
+RS_northern_mfg_2026,None.,,,
+RS_northern_mfg_2026,Loss Development Notes,,,
+RS_northern_mfg_2026,No losses reported in 3 years on our book.,,,
+RS_novus_pharma_2025,2020,0,0,0
+RS_novus_pharma_2025,2021,1,270034,0.39
+RS_novus_pharma_2025,2022,0,0,0
+RS_novus_pharma_2025,2023,0,0,0
+RS_novus_pharma_2025,2024,3,569456,0.83
+RS_novus_pharma_2025,Large Loss Detail,,,
+RS_novus_pharma_2025,No individual loss exceeds reporting threshold.,,,
+RS_novus_pharma_2025,Loss Development Notes,,,
+RS_novus_pharma_2025,All claims fully developed. No adverse development.,,,
+RS_oak_ridge_2025,2020,0,0,0
+RS_oak_ridge_2025,2021,3,412507,2.37
+RS_oak_ridge_2025,2022,2,633326,3.65
+RS_oak_ridge_2025,2023,0,0,0
+RS_oak_ridge_2025,2024,1,345752,1.99
+RS_oak_ridge_2025,Large Loss Detail,,,
+RS_oak_ridge_2025,No individual loss exceeds reporting threshold.,,,
+RS_oak_ridge_2025,Loss Development Notes,,,
+RS_oak_ridge_2025,All claims fully developed. No adverse development.,,,
+RS_pacific_ports_2025,2020,1,317367,0.63
+RS_pacific_ports_2025,2021,0,0,0
+RS_pacific_ports_2025,2022,0,0,0
+RS_pacific_ports_2025,2023,0,0,0
+RS_pacific_ports_2025,2024,0,0,0
+RS_pacific_ports_2025,Large Loss Detail,,,
+RS_pacific_ports_2025,No individual loss exceeds reporting threshold.,,,
+RS_pacific_ports_2025,Loss Development Notes,,,
+RS_pacific_ports_2025,All claims fully developed. No adverse development.,,,
+RS_pacific_retail_2026,2021,0,0,0
+RS_pacific_retail_2026,2022,0,0,0
+RS_pacific_retail_2026,2023,1,125000,0.26
+RS_pacific_retail_2026,2024,0,0,0
+RS_pacific_retail_2026,2025,0,0,0
+RS_pacific_retail_2026,Large Loss Detail,,,
+RS_pacific_retail_2026,Single $125K kitchen fire in 2023 -- contained by sprinkler system; no spread.,,,
+RS_pacific_retail_2026,Loss Development Notes,,,
+RS_pacific_retail_2026,All claims fully developed. No adverse development expected.,,,
+RS_parkview_hotels_2025,2020,0,0,0
+RS_parkview_hotels_2025,2021,0,0,0
+RS_parkview_hotels_2025,2022,3,542207,2.34
+RS_parkview_hotels_2025,2023,1,29434,0.13
+RS_parkview_hotels_2025,2024,0,0,0
+RS_parkview_hotels_2025,Large Loss Detail,,,
+RS_parkview_hotels_2025,No individual loss exceeds reporting threshold.,,,
+RS_parkview_hotels_2025,Loss Development Notes,,,
+RS_parkview_hotels_2025,All claims fully developed. No adverse development.,,,
+RS_phoenix_recycling_2025,2020,0,0,0
+RS_phoenix_recycling_2025,2021,0,0,0
+RS_phoenix_recycling_2025,2022,1,383980,2.93
+RS_phoenix_recycling_2025,2023,1,225481,1.72
+RS_phoenix_recycling_2025,2024,1,241164,1.84
+RS_phoenix_recycling_2025,Large Loss Detail,,,
+RS_phoenix_recycling_2025,No individual loss exceeds reporting threshold.,,,
+RS_phoenix_recycling_2025,Loss Development Notes,,,
+RS_phoenix_recycling_2025,All claims fully developed. No adverse development.,,,
+RS_pioneer_manufacturing_2025,2020,0,0,0
+RS_pioneer_manufacturing_2025,2021,2,629895,3.94
+RS_pioneer_manufacturing_2025,2022,0,0,0
+RS_pioneer_manufacturing_2025,2023,1,217749,1.36
+RS_pioneer_manufacturing_2025,2024,0,0,0
+RS_pioneer_manufacturing_2025,Large Loss Detail,,,
+RS_pioneer_manufacturing_2025,No individual loss exceeds reporting threshold.,,,
+RS_pioneer_manufacturing_2025,Loss Development Notes,,,
+RS_pioneer_manufacturing_2025,All claims fully developed. No adverse development.,,,
+RS_precision_electronics_2024,2019,1,198262,0.74
+RS_precision_electronics_2024,2020,0,0,0
+RS_precision_electronics_2024,2021,0,0,0
+RS_precision_electronics_2024,2022,1,385774,1.44
+RS_precision_electronics_2024,2023,1,325084,1.21
+RS_precision_electronics_2024,Large Loss Detail,,,
+RS_precision_electronics_2024,No individual loss exceeds reporting threshold.,,,
+RS_precision_electronics_2024,Loss Development Notes,,,
+RS_precision_electronics_2024,All claims fully developed. No adverse development.,,,
+RS_rapidfire_logistics_2025,2020,2,291354,1.05
+RS_rapidfire_logistics_2025,2021,0,0,0
+RS_rapidfire_logistics_2025,2022,0,0,0
+RS_rapidfire_logistics_2025,2023,0,0,0
+RS_rapidfire_logistics_2025,2024,0,0,0
+RS_rapidfire_logistics_2025,Large Loss Detail,,,
+RS_rapidfire_logistics_2025,No individual loss exceeds reporting threshold.,,,
+RS_rapidfire_logistics_2025,Loss Development Notes,,,
+RS_rapidfire_logistics_2025,All claims fully developed. No adverse development.,,,
+RS_securestore_2025,2020,3,551788,4.14
+RS_securestore_2025,2021,0,0,0
+RS_securestore_2025,2022,2,626100,4.7
+RS_securestore_2025,2023,1,67347,0.51
+RS_securestore_2025,2024,0,0,0
+RS_securestore_2025,Large Loss Detail,,,
+RS_securestore_2025,No individual loss exceeds reporting threshold.,,,
+RS_securestore_2025,Loss Development Notes,,,
+RS_securestore_2025,All claims fully developed. No adverse development.,,,
+RS_sterling_auto_2025,2020,0,0,0
+RS_sterling_auto_2025,2021,1,318605,1.07
+RS_sterling_auto_2025,2022,0,0,0
+RS_sterling_auto_2025,2023,3,566209,1.9
+RS_sterling_auto_2025,2024,0,0,0
+RS_sterling_auto_2025,Large Loss Detail,,,
+RS_sterling_auto_2025,No individual loss exceeds reporting threshold.,,,
+RS_sterling_auto_2025,Loss Development Notes,,,
+RS_sterling_auto_2025,All claims fully developed. No adverse development.,,,
+RS_summit_office_2026,2021,0,0,0
+RS_summit_office_2026,2022,0,0,0
+RS_summit_office_2026,2023,1,38000,0.2
+RS_summit_office_2026,2024,0,0,0
+RS_summit_office_2026,2025,0,0,0
+RS_summit_office_2026,Large Loss Detail,,,
+RS_summit_office_2026,Single $38K pipe burst (2023) -- closed.,,,
+RS_summit_office_2026,Loss Development Notes,,,
+RS_summit_office_2026,All claims closed. Minimal loss activity.,,,
+RS_summit_retail_2024,2019,3,183466,0.97
+RS_summit_retail_2024,2020,1,39344,0.21
+RS_summit_retail_2024,2021,1,289714,1.53
+RS_summit_retail_2024,2022,0,0,0
+RS_summit_retail_2024,2023,1,241798,1.28
+RS_summit_retail_2024,Large Loss Detail,,,
+RS_summit_retail_2024,No individual loss exceeds reporting threshold.,,,
+RS_summit_retail_2024,Loss Development Notes,,,
+RS_summit_retail_2024,All claims fully developed. No adverse development.,,,
+RS_sunshine_cannabis_2025,2020,2,504215,4.26
+RS_sunshine_cannabis_2025,2021,1,106717,0.9
+RS_sunshine_cannabis_2025,2022,1,149806,1.27
+RS_sunshine_cannabis_2025,2023,3,853411,7.22
+RS_sunshine_cannabis_2025,2024,1,344616,2.91
+RS_sunshine_cannabis_2025,Large Loss Detail,,,
+RS_sunshine_cannabis_2025,No individual loss exceeds reporting threshold.,,,
+RS_sunshine_cannabis_2025,Loss Development Notes,,,
+RS_sunshine_cannabis_2025,All claims fully developed. No adverse development.,,,
+RS_thames_valley_tech_2024,2019,0,0,0
+RS_thames_valley_tech_2024,2020,2,560335,2.26
+RS_thames_valley_tech_2024,2021,2,691932,2.8
+RS_thames_valley_tech_2024,2022,1,10769,0.04
+RS_thames_valley_tech_2024,2023,0,0,0
+RS_thames_valley_tech_2024,Large Loss Detail,,,
+RS_thames_valley_tech_2024,No individual loss exceeds reporting threshold.,,,
+RS_thames_valley_tech_2024,Loss Development Notes,,,
+RS_thames_valley_tech_2024,All claims fully developed. No adverse development.,,,
+RS_tristate_industrial_2025,2020,0,0,0
+RS_tristate_industrial_2025,2021,0,0,0
+RS_tristate_industrial_2025,2022,0,0,0
+RS_tristate_industrial_2025,2023,3,1081372,1.38
+RS_tristate_industrial_2025,2024,0,0,0
+RS_tristate_industrial_2025,Large Loss Detail,,,
+RS_tristate_industrial_2025,No individual loss exceeds reporting threshold.,,,
+RS_tristate_industrial_2025,Loss Development Notes,,,
+RS_tristate_industrial_2025,All claims fully developed. No adverse development.,,,
+RS_westbrook_academy_2024,2019,0,0,0
+RS_westbrook_academy_2024,2020,0,0,0
+RS_westbrook_academy_2024,2021,2,295201,1.25
+RS_westbrook_academy_2024,2022,1,202523,0.86
+RS_westbrook_academy_2024,2023,0,0,0
+RS_westbrook_academy_2024,Large Loss Detail,,,
+RS_westbrook_academy_2024,No individual loss exceeds reporting threshold.,,,
+RS_westbrook_academy_2024,Loss Development Notes,,,
+RS_westbrook_academy_2024,All claims fully developed. No adverse development.,,,
+RS_western_dist_2026,2021,0,0,0
+RS_western_dist_2026,2022,0,0,0
+RS_western_dist_2026,2023,0,0,0
+RS_western_dist_2026,2024,2,222000,0.57
+RS_western_dist_2026,2025,2,130000,0.33
+RS_western_dist_2026,Large Loss Detail,,,
+RS_western_dist_2026,"$180K forklift battery fire (2024) -- warehouse section.
+$95K roof collapse from snow load (2025).
+$42K break-in (2025).
+$35K HVAC water leak (2024).",,,
+RS_western_dist_2026,Loss Development Notes,,,
+RS_western_dist_2026,Forklift fire claim closed. Snow collapse has $10K reserve remaining. All others closed.,,,
+RS_westminster_mixed_2025,2020,0,0,0
+RS_westminster_mixed_2025,2021,1,285530,0.19
+RS_westminster_mixed_2025,2022,0,0,0
+RS_westminster_mixed_2025,2023,0,0,0
+RS_westminster_mixed_2025,2024,0,0,0
+RS_westminster_mixed_2025,Large Loss Detail,,,
+RS_westminster_mixed_2025,No individual loss exceeds reporting threshold.,,,
+RS_westminster_mixed_2025,Loss Development Notes,,,
+RS_westminster_mixed_2025,All claims fully developed. No adverse development.,,,
